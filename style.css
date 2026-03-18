@@ -113,9 +113,10 @@ input{
 	gap: 1rem;
 }
 .home .cntent h1{
-	font-size: 4em;
+	font-size: 3.5em;
 	color: var(--text-color);
-	text-transform: capitalize;
+	text-align: center;
+}
 }
 .home .cntent h1 span{
 	color: var(--main-color);
