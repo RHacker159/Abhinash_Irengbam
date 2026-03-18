@@ -113,7 +113,7 @@ input{
 	gap: 1rem;
 }
 .home .cntent h1{
-	font-size: 4rem;
+	font-size: 3.5rem;
 	color: var(--text-color);
 	text-transform: capitalize;
 }
