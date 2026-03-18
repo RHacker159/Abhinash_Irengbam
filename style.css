@@ -114,7 +114,7 @@ input{
 }
 .home .cntent h1{
 	font-style: italic;
-	font-size: 4em;
+	font-size: clamp(2rem, 5vw, 5rem);
 	color: var(--text-color);
 	text-transform: capitalize;
 }
