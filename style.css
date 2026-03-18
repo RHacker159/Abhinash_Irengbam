@@ -113,7 +113,8 @@ input{
 	gap: 1rem;
 }
 .home .cntent h1{
-	font-size: clamp(4rem, 5vw, 5rem);
+	font-style: italic;
+	font-size: 4em;
 	color: var(--text-color);
 	text-transform: capitalize;
 }
@@ -125,7 +126,8 @@ input{
 } 
 .home .cntent p{
 	color: var(--text-color);
-	font-size: 4rem;
+	font-style: italic;
+	font-size: 4em;
 	line-height: 1.5;
 	width: 50rem;
 	margin-bottom: 1rem;
