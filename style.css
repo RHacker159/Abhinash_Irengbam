@@ -113,7 +113,6 @@ input{
 	gap: 1rem;
 }
 .home .cntent h1{
-	font-style: italic;
 	font-size: clamp(5rem, 5vw, 5rem);
 	color: var(--text-color);
 	text-transform: capitalize;
